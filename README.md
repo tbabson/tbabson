@@ -173,5 +173,5 @@ Here is what that year actually produced:
 </p>
 
 <p align="center">
-  💼 Open to backend and fullstack roles — drop me a line, I reply to everything.
+  💼 Open to backend and fullstack roles — drop me a line, I reply to everythings.
 </p>
