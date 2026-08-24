@@ -1,0 +1,77 @@
+name: Update README
+
+# Keeps the auto-generated blocks in README.md fresh:
+#   - "Latest Blog Posts"        (from the BLOG_FEED_URL repository variable)
+#   - "Recent Commits, by Project" (from the GitHub API)
+#
+# Both blocks are written between HTML markers in README.md. Everything
+# outside those markers is hand-written and is never touched.
+
+on:
+  schedule:
+    # 06:00 and 18:00 UTC. Cron on GitHub is best-effort and can lag under
+    # load, which is fine for a README.
+    - cron: "0 6,18 * * *"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md" # don't re-trigger on this workflow's own commits
+
+permissions:
+  contents: write # required to push the regenerated README
+
+# If a manual run overlaps the scheduled one, let the newer run win rather
+# than having two jobs push to main at once.
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Regenerate README blocks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the profile repo
+        uses: actions/checkout@v4
+
+      # Skipped entirely until you set the BLOG_FEED_URL repository variable
+      # (Settings -> Secrets and variables -> Actions -> Variables). That way
+      # the workflow stays green instead of failing on a missing feed.
+      - name: Pull latest blog posts
+        if: vars.BLOG_FEED_URL != ''
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: ${{ vars.BLOG_FEED_URL }}
+          max_post_count: 5
+          template: "- [$title]($url) <sub>· $newline</sub>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update blog posts in README"
+          committer_username: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Rebuild recent commits by project
+        env:
+          # Only used to raise the API rate limit; the script reads public data.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node .github/scripts/recent-commits.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README unchanged — nothing to commit."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent commits in README"
+          git push
