@@ -92,6 +92,7 @@ Here is what that year actually produced:
 ---
 
 <!-- ═══════════════════ BLOG ═══════════════════ -->
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -103,6 +104,7 @@ Here is what that year actually produced:
 ---
 
 <!-- ═══════════════════ RECENT COMMITS ═══════════════════ -->
+
 ## 🧱 Recent Commits, by Project
 
 <!-- RECENT-COMMITS:START -->
@@ -164,8 +166,8 @@ Here is what that year actually produced:
 <!-- TODO: replace YOUR-HANDLE in the two links below with your real LinkedIn and Twitter/X handles, then delete this comment. -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/babatunde-taiwo-b639614a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/tbabson20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://babatunde-taiwo-a.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tbabson20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
