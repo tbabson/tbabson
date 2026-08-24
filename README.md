@@ -1,56 +1,79 @@
-<h1 align="center">Hi, I'm Babatunde Taiwo 👋</h1>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<h1 align="center">
+  Hi there, I'm Babatunde Taiwo
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />
+</h1>
 
 <p align="center">
-  <b>Fullstack Developer · Backend Engineer</b><br>
-  Building APIs and products with <b>Go</b>, <b>Node.js/TypeScript</b> and <b>React</b> — from Lagos, Nigeria 🇳🇬
+  <a href="https://babatunde-taiwo-a.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=560&lines=Fullstack+Developer;Backend+Engineer+%40+StackForge;Go+%7C+Node.js+%7C+TypeScript+%7C+React;Building+APIs+that+scale+from+Lagos" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://babatunde-taiwo-a.vercel.app/">🌐 Portfolio</a> ·
-  <a href="https://github.com/tbabson?tab=repositories">📂 Repositories</a>
+  <a href="https://babatunde-taiwo-a.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/tbabson?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="mailto:tbabson20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### About me
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+## 🧑‍💻 About Me
 
-- 🏗️ Backend engineer at **StackForge**, focused on service design, data modelling and clean API contracts.
-- ⚙️ I like systems with moving parts: background jobs, schedulers, WebSockets, payments, geofencing, push notifications.
-- 🐳 Everything I build ships with **Docker Compose** and migrations that run on boot — clone, `up`, and it works.
-- 🌱 Currently deepening **Go** (chi, pgx, worker pools) and production-grade Postgres/Redis patterns.
+I am a backend-leaning fullstack developer who enjoys the parts of a product most people never see — the schema, the job queue, the retry logic, the deploy.
 
----
-
-### Tech stack
-
-**Languages** &nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![chi](https://img.shields.io/badge/chi-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Data** &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Infra** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🏗️ **What I do** — Backend engineer at **StackForge**, designing services, data models and clean API contracts.
+- ⚙️ **What I build** — Systems with real moving parts: background jobs, schedulers, WebSockets, payments, geofencing, web push.
+- 🐳 **How I ship** — Everything runs on **Docker Compose** with migrations that apply on boot. Clone it, `up` it, it works.
+- 🌱 **Currently learning** — Deeper **Go** (chi, pgx, worker pools) and production-grade PostgreSQL + Redis patterns.
+- 💬 **Ask me about** — REST API design, Postgres vs Mongo trade-offs, or getting a side project actually deployed.
+- 📍 **Based in** — Lagos, Nigeria.
 
 ---
 
-### Featured projects
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## 🧰 Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![chi](https://img.shields.io/badge/chi_router-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Tooling & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+## 🚀 Featured Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -63,7 +86,32 @@
 
 ---
 
-### Let's connect
+<!-- ═══════════════════ STATS ═══════════════════ -->
+## 📊 Dynamic Stats
 
-- 🌐 **Portfolio** — [babatunde-taiwo-a.vercel.app](https://babatunde-taiwo-a.vercel.app/)
-- 💼 Open to backend and fullstack work — reach out through the contact form on my site.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbabson&layout=compact&langs_count=8&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=00000000" alt="Top languages" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tbabson&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&background=00000000" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tbabson&hide_border=true&area=true&color=00ADD8&line=00ADD8&point=ffffff&bg_color=00000000" alt="Contribution graph" />
+</p>
+
+---
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+## 📫 Let's Connect
+
+<!-- TODO: replace YOUR-HANDLE in the two links below with your real LinkedIn and Twitter/X handles, then delete this comment. -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://babatunde-taiwo-a.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:tbabson20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  💼 Open to backend and fullstack roles — drop me a line, I reply to everything.
+</p>
