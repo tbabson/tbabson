@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://babatunde-taiwo-a.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=560&lines=Fullstack+Developer;Backend+Engineer+%40+StackForge;Go+%7C+Node.js+%7C+TypeScript+%7C+React;Building+APIs+that+scale+from+Lagos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=560&lines=Fullstack+Developer;Backend+Engineer+%40+StackForge;Go+%7C+Node.js+%7C+TypeScript+%7C+React;1+year+shipping+backends+in+Go+%26+Node;Based+in+Lagos%2C+Nigeria" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,16 @@
 
 ## 🧑‍💻 About Me
 
-I am a fullstack developer/backend engineer, who enjoys the parts of a product most people never see — the schema, the job queue, the retry logic, the deploy.
+Fullstack developer and backend engineer with **a year of hands-on experience**, currently building services at **StackForge** in Lagos. Most of that year has gone into the parts of a product users never see — the schema, the job queue, the retry logic, the deploy.
 
-- 🏗️ **What I do** — Backend engineer at **StackForge**, designing services, data models and clean API contracts.
-- ⚙️ **What I build** — Systems with real moving parts: background jobs, schedulers, WebSockets, payments, geofencing, web push.
-- 🐳 **How I ship** — Everything runs on **Docker Compose** with migrations that apply on boot. Clone it, `up` it, it works.
-- 🌱 **Currently learning** — Deeper **Go** (chi, gin, pgx, worker pools) and production-grade PostgreSQL + Redis patterns.
-- 💬 **Ask me about** — REST API design, Postgres vs Mongo trade-offs, or getting a side project actually deployed.
-- 📍 **Based in** — Lagos, Nigeria.
+Here is what that year actually produced:
+
+- 🏗️ **A multi-vendor marketplace backend, in Go** — [MealMaster 2.0](https://github.com/tbabson/mealmaster) models four distinct roles (customers, vendors, dispatch riders, admins) over PostgreSQL and Redis, using Gin and pgx.
+- ⏱️ **A reminder pipeline that has to be exactly right** — one notification, one day before the birthday, at 09:00 in each user's own time zone, and never twice. Timezone-correct scheduling in TypeScript on Postgres + Redis.
+- 🔌 **Real-time and location primitives** — WebSocket messaging, geofencing and device lock inside a Go workplace-operations API.
+- 💳 **Third-party integrations end to end** — Google OAuth, Google Calendar sync, multi-option checkout and web push, error paths included.
+- 🐳 **Reproducible environments, every time** — Docker Compose with migrations that apply on boot. Clone it, `up` it, it works.
+- 🌱 **Going deeper on Go right now** — Gin and chi, worker pools, connection pooling, and the PostgreSQL and Redis patterns behind them.
 
 ---
 
