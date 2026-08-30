@@ -135,8 +135,8 @@ Here is what that year actually produced:
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
 - [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 weeks ago</sub>
-- [`3bcc07a`](https://github.com/tbabson/Birthday-Backend/commit/3bcc07ae6efd65ae6a87d60e8fa1de3b40637f72) changes <sub>· 4 weeks ago</sub>
-- [`a563846`](https://github.com/tbabson/Birthday-Backend/commit/a5638461b41bb89c8529d5dac2499edf56bf2c53) adjustment <sub>· 4 weeks ago</sub>
+- [`3bcc07a`](https://github.com/tbabson/Birthday-Backend/commit/3bcc07ae6efd65ae6a87d60e8fa1de3b40637f72) changes <sub>· 1 month ago</sub>
+- [`a563846`](https://github.com/tbabson/Birthday-Backend/commit/a5638461b41bb89c8529d5dac2499edf56bf2c53) adjustment <sub>· 1 month ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
