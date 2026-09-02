@@ -116,15 +116,15 @@ Here is what that year actually produced:
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
-- [`be34a42`](https://github.com/tbabson/mealmaster-frontend/commit/be34a424c600a6089c486067be9547f8c3e0cc83) feat: implement guest screen in Nutrition page for unauthenticated users <sub>· 4 weeks ago</sub>
-- [`a6aaf0d`](https://github.com/tbabson/mealmaster-frontend/commit/a6aaf0dee7266566937b4fe7b95e9d12b90b3ed8) feat: add NutritionRecommendations component and integrate into Nutri... <sub>· 4 weeks ago</sub>
-- [`546d3e8`](https://github.com/tbabson/mealmaster-frontend/commit/546d3e83a8aa9a08f8add6979c20735152c5436b) feat: add Nutrition page and components for enhanced meal insights <sub>· 4 weeks ago</sub>
+- [`be34a42`](https://github.com/tbabson/mealmaster-frontend/commit/be34a424c600a6089c486067be9547f8c3e0cc83) feat: implement guest screen in Nutrition page for unauthenticated users <sub>· 1 month ago</sub>
+- [`a6aaf0d`](https://github.com/tbabson/mealmaster-frontend/commit/a6aaf0dee7266566937b4fe7b95e9d12b90b3ed8) feat: add NutritionRecommendations component and integrate into Nutri... <sub>· 1 month ago</sub>
+- [`546d3e8`](https://github.com/tbabson/mealmaster-frontend/commit/546d3e83a8aa9a08f8add6979c20735152c5436b) feat: add Nutrition page and components for enhanced meal insights <sub>· 1 month ago</sub>
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
-- [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 4 weeks ago</sub>
-- [`491cdeb`](https://github.com/tbabson/mealmaster-backend/commit/491cdebf1c23809985c2554e5857abdb64fafb31) feat: add nutrition features and endpoints for meal recommendations a... <sub>· 4 weeks ago</sub>
-- [`1e90d5d`](https://github.com/tbabson/mealmaster-backend/commit/1e90d5d97819d22b0b06231ad20b47a05dca9906) feat: implement nutrition features with OpenAI integration and new en... <sub>· 4 weeks ago</sub>
+- [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 1 month ago</sub>
+- [`491cdeb`](https://github.com/tbabson/mealmaster-backend/commit/491cdebf1c23809985c2554e5857abdb64fafb31) feat: add nutrition features and endpoints for meal recommendations a... <sub>· 1 month ago</sub>
+- [`1e90d5d`](https://github.com/tbabson/mealmaster-backend/commit/1e90d5d97819d22b0b06231ad20b47a05dca9906) feat: implement nutrition features with OpenAI integration and new en... <sub>· 1 month ago</sub>
 
 **[mealmaster](https://github.com/tbabson/mealmaster)** <sub>· Go</sub>
 
