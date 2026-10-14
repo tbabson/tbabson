@@ -109,6 +109,16 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
+**[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
+
+- [`7068905`](https://github.com/tbabson/Group11-frontend/commit/70689054cf40004af37800bf8d0511ef44d36c86) first commit <sub>· 4 hours ago</sub>
+
+**[Group11-event](https://github.com/tbabson/Group11-event)** <sub>· JavaScript</sub>
+
+- [`de56fbd`](https://github.com/tbabson/Group11-event/commit/de56fbd20b671171c0a3e9295488cab6a29e5af0) Implement event management features and update API documentation <sub>· 4 hours ago</sub>
+- [`33050f6`](https://github.com/tbabson/Group11-event/commit/33050f6de19fda3c557d138813ece53c7cfd376b) made changes <sub>· 6 hours ago</sub>
+- [`87ed549`](https://github.com/tbabson/Group11-event/commit/87ed549ff72f8039a8ddd98d675330d6339a42a6) Add Postman collection and local environment <sub>· 6 hours ago</sub>
+
 **[server-assignment](https://github.com/tbabson/server-assignment)** <sub>· JavaScript</sub>
 
 - [`eef6f2e`](https://github.com/tbabson/server-assignment/commit/eef6f2e18ec7109d8b29ca107153dc1d0c14ae3b) feat: add README with project details and endpoints <sub>· 1 month ago</sub>
@@ -125,18 +135,6 @@ Here is what that year actually produced:
 - [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 2 months ago</sub>
 - [`491cdeb`](https://github.com/tbabson/mealmaster-backend/commit/491cdebf1c23809985c2554e5857abdb64fafb31) feat: add nutrition features and endpoints for meal recommendations a... <sub>· 2 months ago</sub>
 - [`1e90d5d`](https://github.com/tbabson/mealmaster-backend/commit/1e90d5d97819d22b0b06231ad20b47a05dca9906) feat: implement nutrition features with OpenAI integration and new en... <sub>· 2 months ago</sub>
-
-**[mealmaster](https://github.com/tbabson/mealmaster)** <sub>· Go</sub>
-
-- [`cd2c883`](https://github.com/tbabson/mealmaster/commit/cd2c883770040e29aeefa101b80782fa68960b2b) chnaged to open ai <sub>· 2 months ago</sub>
-- [`7916584`](https://github.com/tbabson/mealmaster/commit/7916584c8e8f0c1116ad62cff8a857d92c5b1765) changed from chi to gin <sub>· 2 months ago</sub>
-- [`90ca66e`](https://github.com/tbabson/mealmaster/commit/90ca66e0de172b605d10871a52b78d6bf5b4ca7b) moved folder <sub>· 2 months ago</sub>
-
-**[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
-
-- [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 2 months ago</sub>
-- [`3bcc07a`](https://github.com/tbabson/Birthday-Backend/commit/3bcc07ae6efd65ae6a87d60e8fa1de3b40637f72) changes <sub>· 2 months ago</sub>
-- [`a563846`](https://github.com/tbabson/Birthday-Backend/commit/a5638461b41bb89c8529d5dac2499edf56bf2c53) adjustment <sub>· 2 months ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
