@@ -111,15 +111,15 @@ Here is what that year actually produced:
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 16 hours ago</sub>
-- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 19 hours ago</sub>
-- [`0dedc34`](https://github.com/tbabson/Group11-frontend/commit/0dedc3471343efc84172003862f650a36d4eb92c) Enhance ticket cancellation messaging and improve event registration ... <sub>· 1 day ago</sub>
+- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 1 day ago</sub>
+- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 1 day ago</sub>
+- [`0dedc34`](https://github.com/tbabson/Group11-frontend/commit/0dedc3471343efc84172003862f650a36d4eb92c) Enhance ticket cancellation messaging and improve event registration ... <sub>· 2 days ago</sub>
 
 **[Group11-event](https://github.com/tbabson/Group11-event)** <sub>· JavaScript</sub>
 
-- [`5dc315e`](https://github.com/tbabson/Group11-event/commit/5dc315eb85d2cf1b2ae78ac6e1b4f3fa00624160) feat: add 'when' query parameter for event filtering and enhance rela... <sub>· 17 hours ago</sub>
-- [`0f4f1ad`](https://github.com/tbabson/Group11-event/commit/0f4f1ad25026371c78deca3f98c729f92bf34ecc) feat: enhance Postman collection with new ticket purchase and payment... <sub>· 1 day ago</sub>
-- [`779c7dd`](https://github.com/tbabson/Group11-event/commit/779c7dd17b939334ed7f5e934cd31c29e51d337f) feat: update API documentation for ticket registration and payment pr... <sub>· 1 day ago</sub>
+- [`5dc315e`](https://github.com/tbabson/Group11-event/commit/5dc315eb85d2cf1b2ae78ac6e1b4f3fa00624160) feat: add 'when' query parameter for event filtering and enhance rela... <sub>· 1 day ago</sub>
+- [`0f4f1ad`](https://github.com/tbabson/Group11-event/commit/0f4f1ad25026371c78deca3f98c729f92bf34ecc) feat: enhance Postman collection with new ticket purchase and payment... <sub>· 2 days ago</sub>
+- [`779c7dd`](https://github.com/tbabson/Group11-event/commit/779c7dd17b939334ed7f5e934cd31c29e51d337f) feat: update API documentation for ticket registration and payment pr... <sub>· 2 days ago</sub>
 
 **[server-assignment](https://github.com/tbabson/server-assignment)** <sub>· JavaScript</sub>
 
