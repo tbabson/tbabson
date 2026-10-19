@@ -109,34 +109,34 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
+**[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
+
+- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 4 hours ago</sub>
+- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 4 hours ago</sub>
+- [`cb73b95`](https://github.com/tbabson/mealmaster-frontend/commit/cb73b957a58eb3771ae2fe5bb096d0a09945b5e9) refactor: remove CheckoutForm and AuthContext components <sub>· 4 hours ago</sub>
+
+**[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
+
+- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 4 hours ago</sub>
+- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 4 hours ago</sub>
+- [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 2 months ago</sub>
+
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 1 hour ago</sub>
-- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 2 days ago</sub>
-- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 2 days ago</sub>
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 10 hours ago</sub>
+- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 3 days ago</sub>
+- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 3 days ago</sub>
 
 **[Group11-event](https://github.com/tbabson/Group11-event)** <sub>· JavaScript</sub>
 
-- [`5dc315e`](https://github.com/tbabson/Group11-event/commit/5dc315eb85d2cf1b2ae78ac6e1b4f3fa00624160) feat: add 'when' query parameter for event filtering and enhance rela... <sub>· 2 days ago</sub>
-- [`0f4f1ad`](https://github.com/tbabson/Group11-event/commit/0f4f1ad25026371c78deca3f98c729f92bf34ecc) feat: enhance Postman collection with new ticket purchase and payment... <sub>· 3 days ago</sub>
-- [`779c7dd`](https://github.com/tbabson/Group11-event/commit/779c7dd17b939334ed7f5e934cd31c29e51d337f) feat: update API documentation for ticket registration and payment pr... <sub>· 3 days ago</sub>
+- [`5dc315e`](https://github.com/tbabson/Group11-event/commit/5dc315eb85d2cf1b2ae78ac6e1b4f3fa00624160) feat: add 'when' query parameter for event filtering and enhance rela... <sub>· 3 days ago</sub>
+- [`0f4f1ad`](https://github.com/tbabson/Group11-event/commit/0f4f1ad25026371c78deca3f98c729f92bf34ecc) feat: enhance Postman collection with new ticket purchase and payment... <sub>· 4 days ago</sub>
+- [`779c7dd`](https://github.com/tbabson/Group11-event/commit/779c7dd17b939334ed7f5e934cd31c29e51d337f) feat: update API documentation for ticket registration and payment pr... <sub>· 4 days ago</sub>
 
 **[server-assignment](https://github.com/tbabson/server-assignment)** <sub>· JavaScript</sub>
 
 - [`eef6f2e`](https://github.com/tbabson/server-assignment/commit/eef6f2e18ec7109d8b29ca107153dc1d0c14ae3b) feat: add README with project details and endpoints <sub>· 1 month ago</sub>
 - [`135fb48`](https://github.com/tbabson/server-assignment/commit/135fb48f1da334608d097803ffaa60160e638ba6) feat: initialize server with Express and basic routes <sub>· 1 month ago</sub>
-
-**[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
-
-- [`be34a42`](https://github.com/tbabson/mealmaster-frontend/commit/be34a424c600a6089c486067be9547f8c3e0cc83) feat: implement guest screen in Nutrition page for unauthenticated users <sub>· 2 months ago</sub>
-- [`a6aaf0d`](https://github.com/tbabson/mealmaster-frontend/commit/a6aaf0dee7266566937b4fe7b95e9d12b90b3ed8) feat: add NutritionRecommendations component and integrate into Nutri... <sub>· 2 months ago</sub>
-- [`546d3e8`](https://github.com/tbabson/mealmaster-frontend/commit/546d3e83a8aa9a08f8add6979c20735152c5436b) feat: add Nutrition page and components for enhanced meal insights <sub>· 2 months ago</sub>
-
-**[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
-
-- [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 2 months ago</sub>
-- [`491cdeb`](https://github.com/tbabson/mealmaster-backend/commit/491cdebf1c23809985c2554e5857abdb64fafb31) feat: add nutrition features and endpoints for meal recommendations a... <sub>· 2 months ago</sub>
-- [`1e90d5d`](https://github.com/tbabson/mealmaster-backend/commit/1e90d5d97819d22b0b06231ad20b47a05dca9906) feat: implement nutrition features with OpenAI integration and new en... <sub>· 2 months ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
