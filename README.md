@@ -111,9 +111,9 @@ Here is what that year actually produced:
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 1 hour ago</sub>
 - [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 2 days ago</sub>
 - [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 2 days ago</sub>
-- [`0dedc34`](https://github.com/tbabson/Group11-frontend/commit/0dedc3471343efc84172003862f650a36d4eb92c) Enhance ticket cancellation messaging and improve event registration ... <sub>· 3 days ago</sub>
 
 **[Group11-event](https://github.com/tbabson/Group11-event)** <sub>· JavaScript</sub>
 
