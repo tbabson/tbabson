@@ -111,15 +111,15 @@ Here is what that year actually produced:
 
 **[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
 
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 4 hours ago</sub>
-- [`aa31dd2`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/aa31dd2f8072cc83178808ad13d38e3a00c74e20) Enhance routing animations and UI indicators <sub>· 8 hours ago</sub>
-- [`8c6c27d`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/8c6c27d3da7c0408b405125917f525dbcd16fa88) first commit <sub>· 9 hours ago</sub>
+- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 18 hours ago</sub>
+- [`aa31dd2`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/aa31dd2f8072cc83178808ad13d38e3a00c74e20) Enhance routing animations and UI indicators <sub>· 22 hours ago</sub>
+- [`8c6c27d`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/8c6c27d3da7c0408b405125917f525dbcd16fa88) first commit <sub>· 23 hours ago</sub>
 
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
-- [`4bc68c3`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/4bc68c3ae7e8bdfa9e7c4c442a392b89a5d8b611) feat: implement profile management and password change functionality <sub>· 5 hours ago</sub>
-- [`a4ee3a7`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a4ee3a7b2a4eedaf581c8dd1028ce65684c307b2) feat: update environment configuration for PostgreSQL and enhance log... <sub>· 5 hours ago</sub>
-- [`68793b8`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/68793b855177b2dbe2d62dfd2ade5430aba80161) feat: add Nginx configuration for self-hosting the quiz API and React... <sub>· 10 hours ago</sub>
+- [`4bc68c3`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/4bc68c3ae7e8bdfa9e7c4c442a392b89a5d8b611) feat: implement profile management and password change functionality <sub>· 19 hours ago</sub>
+- [`a4ee3a7`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a4ee3a7b2a4eedaf581c8dd1028ce65684c307b2) feat: update environment configuration for PostgreSQL and enhance log... <sub>· 19 hours ago</sub>
+- [`68793b8`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/68793b855177b2dbe2d62dfd2ade5430aba80161) feat: add Nginx configuration for self-hosting the quiz API and React... <sub>· 1 day ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
@@ -135,7 +135,7 @@ Here is what that year actually produced:
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 1 day ago</sub>
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 2 days ago</sub>
 - [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 4 days ago</sub>
 - [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 4 days ago</sub>
 
