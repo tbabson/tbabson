@@ -109,35 +109,35 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
-**[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
-
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 1 day ago</sub>
-- [`aa31dd2`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/aa31dd2f8072cc83178808ad13d38e3a00c74e20) Enhance routing animations and UI indicators <sub>· 1 day ago</sub>
-- [`8c6c27d`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/8c6c27d3da7c0408b405125917f525dbcd16fa88) first commit <sub>· 1 day ago</sub>
-
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
-- [`4bc68c3`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/4bc68c3ae7e8bdfa9e7c4c442a392b89a5d8b611) feat: implement profile management and password change functionality <sub>· 1 day ago</sub>
-- [`a4ee3a7`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a4ee3a7b2a4eedaf581c8dd1028ce65684c307b2) feat: update environment configuration for PostgreSQL and enhance log... <sub>· 1 day ago</sub>
-- [`68793b8`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/68793b855177b2dbe2d62dfd2ade5430aba80161) feat: add Nginx configuration for self-hosting the quiz API and React... <sub>· 2 days ago</sub>
+- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 7 hours ago</sub>
+- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 7 hours ago</sub>
+- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 8 hours ago</sub>
+
+**[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
+
+- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 7 hours ago</sub>
+- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 8 hours ago</sub>
+- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 2 days ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
-- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 2 days ago</sub>
-- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 2 days ago</sub>
-- [`cb73b95`](https://github.com/tbabson/mealmaster-frontend/commit/cb73b957a58eb3771ae2fe5bb096d0a09945b5e9) refactor: remove CheckoutForm and AuthContext components <sub>· 2 days ago</sub>
+- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 3 days ago</sub>
+- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 3 days ago</sub>
+- [`cb73b95`](https://github.com/tbabson/mealmaster-frontend/commit/cb73b957a58eb3771ae2fe5bb096d0a09945b5e9) refactor: remove CheckoutForm and AuthContext components <sub>· 3 days ago</sub>
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
-- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 2 days ago</sub>
-- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 2 days ago</sub>
+- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 3 days ago</sub>
+- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 3 days ago</sub>
 - [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 2 months ago</sub>
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
 - [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 3 days ago</sub>
-- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 5 days ago</sub>
-- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 5 days ago</sub>
+- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 6 days ago</sub>
+- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 6 days ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
