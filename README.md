@@ -111,14 +111,14 @@ Here is what that year actually produced:
 
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
-- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 7 hours ago</sub>
-- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 7 hours ago</sub>
-- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 8 hours ago</sub>
+- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 21 hours ago</sub>
+- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 21 hours ago</sub>
+- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 22 hours ago</sub>
 
 **[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
 
-- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 7 hours ago</sub>
-- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 8 hours ago</sub>
+- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 21 hours ago</sub>
+- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 22 hours ago</sub>
 - [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 2 days ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
@@ -135,7 +135,7 @@ Here is what that year actually produced:
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 3 days ago</sub>
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 4 days ago</sub>
 - [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 6 days ago</sub>
 - [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 6 days ago</sub>
 
