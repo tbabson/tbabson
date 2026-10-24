@@ -111,31 +111,31 @@ Here is what that year actually produced:
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
-- [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 22 hours ago</sub>
-- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 4 days ago</sub>
-- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 4 days ago</sub>
+- [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 1 day ago</sub>
+- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 5 days ago</sub>
+- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 5 days ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
-- [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 22 hours ago</sub>
-- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 4 days ago</sub>
-- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 4 days ago</sub>
+- [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 1 day ago</sub>
+- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 5 days ago</sub>
+- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 5 days ago</sub>
 
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
-- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 1 day ago</sub>
-- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 1 day ago</sub>
-- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 1 day ago</sub>
+- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 2 days ago</sub>
+- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 2 days ago</sub>
+- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 2 days ago</sub>
 
 **[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
 
-- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 1 day ago</sub>
-- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 1 day ago</sub>
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 3 days ago</sub>
+- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 2 days ago</sub>
+- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 2 days ago</sub>
+- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 4 days ago</sub>
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 4 days ago</sub>
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 5 days ago</sub>
 - [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 1 week ago</sub>
 - [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 1 week ago</sub>
 
