@@ -111,13 +111,13 @@ Here is what that year actually produced:
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
-- [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 2 days ago</sub>
+- [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 3 days ago</sub>
 - [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 6 days ago</sub>
 - [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 6 days ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
-- [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 2 days ago</sub>
+- [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 3 days ago</sub>
 - [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 6 days ago</sub>
 - [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 6 days ago</sub>
 
@@ -135,7 +135,7 @@ Here is what that year actually produced:
 
 **[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
 
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 6 days ago</sub>
+- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 1 week ago</sub>
 - [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 1 week ago</sub>
 - [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 1 week ago</sub>
 
