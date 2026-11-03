@@ -109,6 +109,12 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
+**[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
+
+- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 6 hours ago</sub>
+- [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
+- [`3bcc07a`](https://github.com/tbabson/Birthday-Backend/commit/3bcc07ae6efd65ae6a87d60e8fa1de3b40637f72) changes <sub>· 3 months ago</sub>
+
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
 - [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 1 week ago</sub>
@@ -131,13 +137,7 @@ Here is what that year actually produced:
 
 - [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 1 week ago</sub>
 - [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 1 week ago</sub>
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 1 week ago</sub>
-
-**[Group11-frontend](https://github.com/tbabson/Group11-frontend)** <sub>· JavaScript</sub>
-
-- [`a446fe7`](https://github.com/tbabson/Group11-frontend/commit/a446fe7938b5a8102f8e52c300e13747438bd39c) Add useEndTicker and useLiveEvents hooks for live event handling <sub>· 2 weeks ago</sub>
-- [`0b02a6f`](https://github.com/tbabson/Group11-frontend/commit/0b02a6fe8f00a531e64a3ea7cb3d2ba1b72ea1a1) Add LiveBadge component and enhance event status handling in EventCar... <sub>· 2 weeks ago</sub>
-- [`ecf9d0e`](https://github.com/tbabson/Group11-frontend/commit/ecf9d0e4582e9b68fb822bc25970fb0ea4e0e93a) Add TransactionsTable component and integrate into Admin and Payouts ... <sub>· 2 weeks ago</sub>
+- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 2 weeks ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
