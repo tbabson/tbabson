@@ -111,7 +111,7 @@ Here is what that year actually produced:
 
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
-- [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 13 hours ago</sub>
+- [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 1 day ago</sub>
 - [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 1 day ago</sub>
 - [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
 
@@ -129,14 +129,14 @@ Here is what that year actually produced:
 
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
-- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 1 week ago</sub>
-- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 1 week ago</sub>
-- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 1 week ago</sub>
+- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 2 weeks ago</sub>
+- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 2 weeks ago</sub>
+- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 2 weeks ago</sub>
 
 **[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
 
-- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 1 week ago</sub>
-- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 1 week ago</sub>
+- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 2 weeks ago</sub>
+- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 2 weeks ago</sub>
 - [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 2 weeks ago</sub>
 
 <!-- RECENT-COMMITS:END -->
