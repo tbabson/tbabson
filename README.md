@@ -112,20 +112,20 @@ Here is what that year actually produced:
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
 - [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 5 days ago</sub>
-- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 5 days ago</sub>
+- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 6 days ago</sub>
 - [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
 
 - [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 2 weeks ago</sub>
-- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 2 weeks ago</sub>
-- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 2 weeks ago</sub>
+- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 3 weeks ago</sub>
+- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 3 weeks ago</sub>
 
 **[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
 
 - [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 2 weeks ago</sub>
-- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 2 weeks ago</sub>
-- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 2 weeks ago</sub>
+- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 3 weeks ago</sub>
+- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 3 weeks ago</sub>
 
 **[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
 
