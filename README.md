@@ -137,7 +137,7 @@ Here is what that year actually produced:
 
 - [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 4 weeks ago</sub>
 - [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 4 weeks ago</sub>
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 4 weeks ago</sub>
+- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 1 month ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
