@@ -109,6 +109,12 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
+**[workplace-app](https://github.com/tbabson/workplace-app)** <sub>· Go</sub>
+
+- [`5e0c847`](https://github.com/tbabson/workplace-app/commit/5e0c84744e8365fb7f24e77148b734039922abcb) Refactor configuration and middleware; implement new router structure <sub>· 48 minutes ago</sub>
+- [`c66c5b9`](https://github.com/tbabson/workplace-app/commit/c66c5b9b06641e1fd50df259c81b8af4e5241077) Remove GPS configuration example from README <sub>· 5 months ago</sub>
+- [`159f968`](https://github.com/tbabson/workplace-app/commit/159f968f493dffb415ee853de678fa5abb0915ff) Remove 'Environment Variables' section from README <sub>· 5 months ago</sub>
+
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
 - [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 2 weeks ago</sub>
@@ -132,12 +138,6 @@ Here is what that year actually produced:
 - [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 1 month ago</sub>
 - [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 1 month ago</sub>
 - [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 1 month ago</sub>
-
-**[NextGen-Quiz-Platform-React](https://github.com/tbabson/NextGen-Quiz-Platform-React)** <sub>· JavaScript</sub>
-
-- [`dd20558`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/dd205588c08c9eb65c1dd6e9367b0f577c2c15fb) Add Vercel configuration file for routing <sub>· 1 month ago</sub>
-- [`cbf9079`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/cbf907935a771310900c90866707ac84343e3ed2) Update README.md with correct API link and formatting adjustments <sub>· 1 month ago</sub>
-- [`ce02bb4`](https://github.com/tbabson/NextGen-Quiz-Platform-React/commit/ce02bb4d367426697b81f5914889195460cc50b0) Add profile management features and update UI components <sub>· 1 month ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
