@@ -110,14 +110,20 @@ Here is what that year actually produced:
 
 **[workplace-app](https://github.com/tbabson/workplace-app)** <sub>· Go</sub>
 
-- [`5e0c847`](https://github.com/tbabson/workplace-app/commit/5e0c84744e8365fb7f24e77148b734039922abcb) Refactor configuration and middleware; implement new router structure <sub>· 10 hours ago</sub>
+- [`74f1e3b`](https://github.com/tbabson/workplace-app/commit/74f1e3ba1755d647254ee2733e745e7043599a44) New changes <sub>· 23 minutes ago</sub>
+- [`5e0c847`](https://github.com/tbabson/workplace-app/commit/5e0c84744e8365fb7f24e77148b734039922abcb) Refactor configuration and middleware; implement new router structure <sub>· 1 day ago</sub>
 - [`c66c5b9`](https://github.com/tbabson/workplace-app/commit/c66c5b9b06641e1fd50df259c81b8af4e5241077) Remove GPS configuration example from README <sub>· 5 months ago</sub>
-- [`159f968`](https://github.com/tbabson/workplace-app/commit/159f968f493dffb415ee853de678fa5abb0915ff) Remove 'Environment Variables' section from README <sub>· 5 months ago</sub>
+
+**[workplace-frontend](https://github.com/tbabson/workplace-frontend)** <sub>· TypeScript</sub>
+
+- [`2da9349`](https://github.com/tbabson/workplace-frontend/commit/2da9349e0889947b72fa77a5526a13cec5cb91c7) Delete .env <sub>· 42 minutes ago</sub>
+- [`2467f36`](https://github.com/tbabson/workplace-frontend/commit/2467f36d1e12b06958de0988681e9e3c3ea6c264) refactor: clean up imports in Dashboard and ProjectDetail components <sub>· 43 minutes ago</sub>
+- [`73f5739`](https://github.com/tbabson/workplace-frontend/commit/73f57399dba6386eb0d8107e2433a4a297b6bfd1) first commit <sub>· 45 minutes ago</sub>
 
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
 - [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 2 weeks ago</sub>
-- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 2 weeks ago</sub>
+- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 3 weeks ago</sub>
 - [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
 
 **[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
@@ -131,12 +137,6 @@ Here is what that year actually produced:
 - [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 1 month ago</sub>
 - [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 1 month ago</sub>
 - [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 1 month ago</sub>
-
-**[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
-
-- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 1 month ago</sub>
-- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 1 month ago</sub>
-- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 1 month ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
