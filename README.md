@@ -108,34 +108,35 @@ Here is what that year actually produced:
 
 <!-- RECENT-COMMITS:START -->
 
-**[server-assignment](https://github.com/tbabson/server-assignment)** <sub>· JavaScript</sub>
+**[workplace-app](https://github.com/tbabson/workplace-app)** <sub>· Go</sub>
 
-- [`eef6f2e`](https://github.com/tbabson/server-assignment/commit/eef6f2e18ec7109d8b29ca107153dc1d0c14ae3b) feat: add README with project details and endpoints <sub>· 2 days ago</sub>
-- [`135fb48`](https://github.com/tbabson/server-assignment/commit/135fb48f1da334608d097803ffaa60160e638ba6) feat: initialize server with Express and basic routes <sub>· 2 days ago</sub>
-
-**[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
-
-- [`be34a42`](https://github.com/tbabson/mealmaster-frontend/commit/be34a424c600a6089c486067be9547f8c3e0cc83) feat: implement guest screen in Nutrition page for unauthenticated users <sub>· 2 weeks ago</sub>
-- [`a6aaf0d`](https://github.com/tbabson/mealmaster-frontend/commit/a6aaf0dee7266566937b4fe7b95e9d12b90b3ed8) feat: add NutritionRecommendations component and integrate into Nutri... <sub>· 2 weeks ago</sub>
-- [`546d3e8`](https://github.com/tbabson/mealmaster-frontend/commit/546d3e83a8aa9a08f8add6979c20735152c5436b) feat: add Nutrition page and components for enhanced meal insights <sub>· 3 weeks ago</sub>
-
-**[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
-
-- [`bd9fed3`](https://github.com/tbabson/mealmaster-backend/commit/bd9fed3192b76e4f8199e2a340ee5feeb54a6f59) feat: optimize nutrition recommendation caching and limit handling <sub>· 2 weeks ago</sub>
-- [`491cdeb`](https://github.com/tbabson/mealmaster-backend/commit/491cdebf1c23809985c2554e5857abdb64fafb31) feat: add nutrition features and endpoints for meal recommendations a... <sub>· 2 weeks ago</sub>
-- [`1e90d5d`](https://github.com/tbabson/mealmaster-backend/commit/1e90d5d97819d22b0b06231ad20b47a05dca9906) feat: implement nutrition features with OpenAI integration and new en... <sub>· 3 weeks ago</sub>
-
-**[mealmaster](https://github.com/tbabson/mealmaster)** <sub>· Go</sub>
-
-- [`cd2c883`](https://github.com/tbabson/mealmaster/commit/cd2c883770040e29aeefa101b80782fa68960b2b) chnaged to open ai <sub>· 3 weeks ago</sub>
-- [`7916584`](https://github.com/tbabson/mealmaster/commit/7916584c8e8f0c1116ad62cff8a857d92c5b1765) changed from chi to gin <sub>· 1 month ago</sub>
-- [`90ca66e`](https://github.com/tbabson/mealmaster/commit/90ca66e0de172b605d10871a52b78d6bf5b4ca7b) moved folder <sub>· 1 month ago</sub>
+- [`5e0c847`](https://github.com/tbabson/workplace-app/commit/5e0c84744e8365fb7f24e77148b734039922abcb) Refactor configuration and middleware; implement new router structure <sub>· 10 hours ago</sub>
+- [`c66c5b9`](https://github.com/tbabson/workplace-app/commit/c66c5b9b06641e1fd50df259c81b8af4e5241077) Remove GPS configuration example from README <sub>· 5 months ago</sub>
+- [`159f968`](https://github.com/tbabson/workplace-app/commit/159f968f493dffb415ee853de678fa5abb0915ff) Remove 'Environment Variables' section from README <sub>· 5 months ago</sub>
 
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
-- [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 weeks ago</sub>
-- [`3bcc07a`](https://github.com/tbabson/Birthday-Backend/commit/3bcc07ae6efd65ae6a87d60e8fa1de3b40637f72) changes <sub>· 3 weeks ago</sub>
-- [`a563846`](https://github.com/tbabson/Birthday-Backend/commit/a5638461b41bb89c8529d5dac2499edf56bf2c53) adjustment <sub>· 3 weeks ago</sub>
+- [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 2 weeks ago</sub>
+- [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 2 weeks ago</sub>
+- [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
+
+**[mealmaster-backend](https://github.com/tbabson/mealmaster-backend)** <sub>· JavaScript</sub>
+
+- [`ebde686`](https://github.com/tbabson/mealmaster-backend/commit/ebde68623694af2f948f2e22b8e65f5f2b00a156) feat: implement retry logic for MongoDB connection with enhanced logging <sub>· 1 month ago</sub>
+- [`2ae3e9e`](https://github.com/tbabson/mealmaster-backend/commit/2ae3e9ee4ef6623b19a19c0027feda928ac4323b) Refactor routes to enhance authorization and file handling <sub>· 1 month ago</sub>
+- [`f8df6de`](https://github.com/tbabson/mealmaster-backend/commit/f8df6de02d6454956d8bb9a3a841199b26e9e962) chore: remove unused models and validation middleware <sub>· 1 month ago</sub>
+
+**[mealmaster-frontend](https://github.com/tbabson/mealmaster-frontend)** <sub>· JavaScript</sub>
+
+- [`5ac7cf5`](https://github.com/tbabson/mealmaster-frontend/commit/5ac7cf53c567b99079d66f95770991aa87270d5d) feat: enhance admin login flow and redirect logic in ProtectedAdminRoute <sub>· 1 month ago</sub>
+- [`07be3db`](https://github.com/tbabson/mealmaster-frontend/commit/07be3db18b23d8484fbf41cbb4cb35a4f3b71628) refactor: update service worker to version 2 and improve caching stra... <sub>· 1 month ago</sub>
+- [`37417a7`](https://github.com/tbabson/mealmaster-frontend/commit/37417a71c4eafa4790ab6aa0405cead31dfbd174) feat: add new landing components and utilities <sub>· 1 month ago</sub>
+
+**[NextGen-Quiz-Platform-Node](https://github.com/tbabson/NextGen-Quiz-Platform-Node)** <sub>· JavaScript</sub>
+
+- [`a45a340`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/a45a340821e8c56b217de8c08d2ff9d5988bcd35) docs: update live API and client URLs in README.md <sub>· 1 month ago</sub>
+- [`aac7147`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/aac714742be4c4d3a81953afe2a653e868dcf4b3) docs: improve formatting and clarity in README.md <sub>· 1 month ago</sub>
+- [`841d7ed`](https://github.com/tbabson/NextGen-Quiz-Platform-Node/commit/841d7ed3ba7797b23a2cc5a3b550d325ed103fcc) feat: normalize CORS origins and add validation for invalid entries <sub>· 1 month ago</sub>
 
 <!-- RECENT-COMMITS:END -->
 
