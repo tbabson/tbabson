@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-Fullstack developer and backend engineer with **a year of hands-on experience**, currently building services at **StackForge** in Lagos. Most of that year has gone into the parts of a product users never see — the schema, the job queue, the retry logic, the deploy.
+Fullstack developer and backend engineer with **a year of hands-on experience**, currently building services at **StackForge**. Most of that year has gone into the parts of a product users never see — the schema, the job queue, the retry logic, the deploy.
 
 Here is what that year actually produced:
 
@@ -42,7 +42,6 @@ Here is what that year actually produced:
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +50,7 @@ Here is what that year actually produced:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin and net/http](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Databases & Caching**
