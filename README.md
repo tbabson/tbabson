@@ -110,15 +110,15 @@ Here is what that year actually produced:
 
 **[workplace-app](https://github.com/tbabson/workplace-app)** <sub>· Go</sub>
 
-- [`74f1e3b`](https://github.com/tbabson/workplace-app/commit/74f1e3ba1755d647254ee2733e745e7043599a44) New changes <sub>· 23 minutes ago</sub>
-- [`5e0c847`](https://github.com/tbabson/workplace-app/commit/5e0c84744e8365fb7f24e77148b734039922abcb) Refactor configuration and middleware; implement new router structure <sub>· 1 day ago</sub>
-- [`c66c5b9`](https://github.com/tbabson/workplace-app/commit/c66c5b9b06641e1fd50df259c81b8af4e5241077) Remove GPS configuration example from README <sub>· 5 months ago</sub>
+- [`2d42c37`](https://github.com/tbabson/workplace-app/commit/2d42c375ba4003bf3ab5658736433e8fab41c80d) feat(department): implement department hierarchy with parent-child re... <sub>· 8 hours ago</sub>
+- [`6c62179`](https://github.com/tbabson/workplace-app/commit/6c621796b863e227e0e902003489442486b5886d) feat: enhance access control and reporting features <sub>· 8 hours ago</sub>
+- [`74f1e3b`](https://github.com/tbabson/workplace-app/commit/74f1e3ba1755d647254ee2733e745e7043599a44) New changes <sub>· 9 hours ago</sub>
 
 **[workplace-frontend](https://github.com/tbabson/workplace-frontend)** <sub>· TypeScript</sub>
 
-- [`2da9349`](https://github.com/tbabson/workplace-frontend/commit/2da9349e0889947b72fa77a5526a13cec5cb91c7) Delete .env <sub>· 42 minutes ago</sub>
-- [`2467f36`](https://github.com/tbabson/workplace-frontend/commit/2467f36d1e12b06958de0988681e9e3c3ea6c264) refactor: clean up imports in Dashboard and ProjectDetail components <sub>· 43 minutes ago</sub>
-- [`73f5739`](https://github.com/tbabson/workplace-frontend/commit/73f57399dba6386eb0d8107e2433a4a297b6bfd1) first commit <sub>· 45 minutes ago</sub>
+- [`2da9349`](https://github.com/tbabson/workplace-frontend/commit/2da9349e0889947b72fa77a5526a13cec5cb91c7) Delete .env <sub>· 9 hours ago</sub>
+- [`2467f36`](https://github.com/tbabson/workplace-frontend/commit/2467f36d1e12b06958de0988681e9e3c3ea6c264) refactor: clean up imports in Dashboard and ProjectDetail components <sub>· 9 hours ago</sub>
+- [`73f5739`](https://github.com/tbabson/workplace-frontend/commit/73f57399dba6386eb0d8107e2433a4a297b6bfd1) first commit <sub>· 9 hours ago</sub>
 
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
