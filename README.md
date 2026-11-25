@@ -110,19 +110,19 @@ Here is what that year actually produced:
 
 **[workplace-app](https://github.com/tbabson/workplace-app)** <sub>· Go</sub>
 
-- [`2d42c37`](https://github.com/tbabson/workplace-app/commit/2d42c375ba4003bf3ab5658736433e8fab41c80d) feat(department): implement department hierarchy with parent-child re... <sub>· 8 hours ago</sub>
-- [`6c62179`](https://github.com/tbabson/workplace-app/commit/6c621796b863e227e0e902003489442486b5886d) feat: enhance access control and reporting features <sub>· 8 hours ago</sub>
-- [`74f1e3b`](https://github.com/tbabson/workplace-app/commit/74f1e3ba1755d647254ee2733e745e7043599a44) New changes <sub>· 9 hours ago</sub>
+- [`f03fbdf`](https://github.com/tbabson/workplace-app/commit/f03fbdfaaa6ef49cff2b4acacc790ba572feb8f4) feat(task): implement visibility logic for task access based on user ... <sub>· 2 hours ago</sub>
+- [`06f23b3`](https://github.com/tbabson/workplace-app/commit/06f23b332578550e1fcec7cd0a2080f1ae5f3a9c) feat(chat): enhance message notifications and project room handling; ... <sub>· 3 hours ago</sub>
+- [`a8fc080`](https://github.com/tbabson/workplace-app/commit/a8fc080fc6119ebb2394c954e0bb3b8422fb3ecf) feat(database): implement pingWithRetry for improved connection handling <sub>· 5 hours ago</sub>
 
 **[workplace-frontend](https://github.com/tbabson/workplace-frontend)** <sub>· TypeScript</sub>
 
-- [`2da9349`](https://github.com/tbabson/workplace-frontend/commit/2da9349e0889947b72fa77a5526a13cec5cb91c7) Delete .env <sub>· 9 hours ago</sub>
-- [`2467f36`](https://github.com/tbabson/workplace-frontend/commit/2467f36d1e12b06958de0988681e9e3c3ea6c264) refactor: clean up imports in Dashboard and ProjectDetail components <sub>· 9 hours ago</sub>
-- [`73f5739`](https://github.com/tbabson/workplace-frontend/commit/73f57399dba6386eb0d8107e2433a4a297b6bfd1) first commit <sub>· 9 hours ago</sub>
+- [`77dc923`](https://github.com/tbabson/workplace-frontend/commit/77dc923993df90a7edb58904be02e6ee52a5cf4f) feat: enhance task management with detailed view and improved UI for ... <sub>· 2 hours ago</sub>
+- [`ccda1bf`](https://github.com/tbabson/workplace-frontend/commit/ccda1bffb88f9259a616a15556ac04a3bdb01f26) fix: update department_id handling to clear department correctly in U... <sub>· 3 hours ago</sub>
+- [`20c12e7`](https://github.com/tbabson/workplace-frontend/commit/20c12e778e94ff86eca2df993e3ddbf41792c2d7) feat: implement department hierarchy and enhance error handling in va... <sub>· 6 hours ago</sub>
 
 **[Birthday-Backend](https://github.com/tbabson/Birthday-Backend)** <sub>· TypeScript</sub>
 
-- [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 2 weeks ago</sub>
+- [`073bed8`](https://github.com/tbabson/Birthday-Backend/commit/073bed83ea79e2e3c4a2a9ee083093d6a3963d60) refactor: update email provider instructions and remove mailpit depen... <sub>· 3 weeks ago</sub>
 - [`2b4a718`](https://github.com/tbabson/Birthday-Backend/commit/2b4a718e84d473134b5b15ac8c17c2360dea271c) refactor: update docker-compose files for clarity and remove unused s... <sub>· 3 weeks ago</sub>
 - [`5612eb6`](https://github.com/tbabson/Birthday-Backend/commit/5612eb6bda9b6217e6d7299b7b111bbc0020086a) recipient <sub>· 3 months ago</sub>
 
